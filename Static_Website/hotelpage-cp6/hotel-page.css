@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
+.royal-card {
+    color: #ffffff;
+    background-color: #000000e6;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 10px;
+    width: 430px;
+}
+
+.royal-head {
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.royal-para {
+    font-family: "Roboto";
+}
+
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.button {
+    background-color: #ffffff;
+    border-radius: 9px;
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: 400;
+    height: 35px;
+    width: 130px;
+    border-width: 0px;
+}
