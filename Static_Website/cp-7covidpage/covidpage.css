@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: white;
+    padding: 15px;
+    border-radius: 9px;
+    margin: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #0967d2;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 85px;
+    height: 30px;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+.nurse-head {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.second-session {
+    background-color: #0967d219;
+    height: 150px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 15px;
+
+}
+
+.test-container {
+    padding: 10px;
+    height: 100px;
+    margin: 0px;
+
+
+}
+
+.test-name {
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.test-des {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.subheading {
+    font-size: 20px;
+    padding: 15px;
+    margin: 10px;
+    font-weight: 500;
+
+}
+
+.text1-container {
+    width: 100px;
+    margin: 5px;
+    background-color: #3ebd93;
+    border-radius: 9px;
+    text-align: center;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.description {
+    font-family: "Roboto";
+
+}
+
+.text2-container {
+    width: 100px;
+    margin: 5px;
+    background-color: #e668a7;
+    border-radius: 9px;
+    text-align: center;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.text3-container {
+    width: 100px;
+    margin: 5px;
+    background-color: #a368fc;
+    border-radius: 9px;
+    text-align: center;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.text-container {
+    background-color: #e12d3919;
+    height: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 5px;
+    font-weight: 500;
+}
