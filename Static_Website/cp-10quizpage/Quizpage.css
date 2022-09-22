@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-top-container {
+    background-color: #875fc0;
+    padding: 30px;
+    background-size: cover;
+}
+
+.score {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+    text-align: right;
+}
+
+.que-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.que-head {
+    color: #1f2933;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.que-para {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.code {
+    height: 100px;
+    width: 300px;
+
+}
+
+.bottom-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    height: 90vh;
+    margin: 20px;
+    width: 430px;
+}
+
+.options-list {
+    list-style-type: none;
+    padding: 20px;
+    text-align: center;
+    margin: 15px;
+}
+
+.list {
+    color: #323f4b;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-style: solid;
+    padding: 13px;
+    margin: 10px;
+    font-weight: 500;
+}
+
+.list-color {
+    background-color: #875fc0;
+    color: white;
+}
+
+.button {
+    background-color: #fbaf00;
+    color: #ffffff;
+    border-radius: 8px;
+    border-width: 0px;
+    width: 90px;
+    height: 40px;
+
+}
