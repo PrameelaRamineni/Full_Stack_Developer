@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 50vh;
+    width: 90vw;
+    margin: 20px;
+}
+
+.bottom-container {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+
+.pic-items {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.pod-name {
+    color: #ffffff;
+    padding: 25px;
+}
+
+.pic-name {
+    color: #151765;
+    font-size: 30px;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.podcast-name {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.podcast-image {
+    width: 144px;
+    height: 112px;
+    margin-top: 10px;
+}
+
+.category {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+
+}
+
+.podcast-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.podcast-caption {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+
+}
+
+.podcast-episode-container {
+    margin: 10px;
+}
+
+.podcaast-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 12px;
+
+}
+
+.podcast-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 12px;
+
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #141961;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: 0px;
+}
