@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #03174c;
+    height: 120vh;
+    margin: 10px;
+}
+
+.header-bg-container {
+    background-size: cover;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 60vh;
+    padding: 25px;
+}
+
+.sleep-head {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    padding: 30px;
+}
+
+.island-name {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.sleep-para {
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.island-card-container {
+    padding: 30px;
+}
+
+.island-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 25vh;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 19px;
+    height: 30px;
+    width: 100px;
+
+}
+
+.cloud-image {
+    height: 200px;
+    width: 490px;
+}
+
+.night-head {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 25px;
+}
+
+.night-para {
+    color: #98a1bd;
+    padding: 10px;
+    font-family: "Bree Serif";
+}
+
+.related-head {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.image {
+    height: 100px;
+    width: 180px;
+    padding: 10px;
+}
+
+.image-head {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+
+}
+
+.image-para {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+}
