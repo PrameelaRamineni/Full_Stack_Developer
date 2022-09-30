@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./Flatspage.css"> 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="sectionHome">
+        <div class="bg-container d-flex flex-column justify-content-end">
+            <div class="sunrise-card">
+                <h1 class="sunrise-head">Sunrise Avenue</h1>
+                <p class="sunrise-para">Move to what moves you</p>
+                <button class="button" onclick="display('sectionSunriseAvenue')">Book Flat</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="sectionSunriseAvenue">
+        <div class="avenue-container ">
+            <h1 class="avenue-heading">Sunrise Avenue</h1>
+            <div class="avenue-card-container  d-flex flex-row" onclick="display('sectionThreeBhkFlat')">
+                <img src="https://assets.ccbp.in/frontend/static-website/flats-list-card1-img.png" class="avenue-card-image" />
+                <div>
+                    <h1 class="avenue-card-heading">3BHK Flat</h1>
+                    <p class="avenue-card-description">
+                        This is a fully furnished house with handmade
+                        furniture including a luxury en-suite facilities
+                        pack.</p>
+                </div>
+            </div>
+
+
+            <div class="avenue-card-container  d-flex flex-row">
+                <img src="https://assets.ccbp.in/frontend/static-website/flats-list-card2-img.png" class="avenue-card-image" />
+                <div>
+                    <h1 class="avenue-card-heading">2BHK Flat</h1>
+                    <p class="avenue-card-description">
+                        This is a fully furnished house with handmade
+                        furniture including a luxury en-suite facilities
+                        pack.</p>
+
+                    <button class="button" onclick="display('sectionHome')">Back</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="sectionThreeBhkFlat">
+        <div class="flatdesc-container">
+            <img src="https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png" class="desc-image" />
+            <h1 class="flatdesc-name">RS 3000/-</h1>
+            <div class="d-flex flex-row">
+                <img src="https://assets.ccbp.in/frontend/static-website/flats-list-location-icon-img.png" class="location" />
+                <p class="flatdesc-loc">D/N 5-2,Food Street,Indore</p>
+            </div>
+            <h1 class="flatdesc-name">Description</h1>
+            <p class="flatdesc-desc">This is a fully furnished house with
+                handmade furniture including a luxury en-suite facilities pack.</p>
+            <button class="button" onclick="display('sectionThreeBhkFlat')">confirm</button>
+            <button class="button" onclick="display('sectionHome')">Back</button>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.sunrise-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.sunrise-para {
+    color: #6c6b70;
+    font-size: 20px;
+}
+
+.sunrise-card {
+    background-color: #ffffff;
+    border-radius: 9px;
+    text-align: center;
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    width: 100px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.avenue-container {
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+    margin: 10px;
+    padding: 15px;
+}
+
+.avenue-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.avenue-card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 6px;
+    margin: 10px;
+}
+
+.avenue-card-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.avenue-card-description {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    margin: 10px;
+}
+
+.avenue-card-image {
+    width: 180px;
+    height: 130px;
+    padding: 10px;
+}
+
+.flatdesc-container {
+    background-color: #222222;
+    height: 130vh;
+    background-size: cover;
+}
+
+.desc-image {
+    height: 50vh;
+}
+
+.flatdesc-name {
+    color: #f19116;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    padding: 10px;
+}
+
+.flatdesc-loc {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.location {
+    height: 35px;
+    width: 50px;
+}
+
+.flatdesc-desc {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    padding: 10px;
+}
