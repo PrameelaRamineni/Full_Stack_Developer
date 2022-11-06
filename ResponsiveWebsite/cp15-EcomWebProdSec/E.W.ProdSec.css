@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: white;
+}
+
+.phone-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    border-radius: 16px;
+    height: 40vh;
+}
+
+.main-heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.card-heading {
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 35px;
+}
+
+.card-paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card-button {
+    background-color: white;
+    color: #ff9f00;
+    border-radius: 25px;
+    border-width: 0;
+    padding: 10px;
+    width: 150px;
+}
+
+.laptop-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 10px;
+    height: 40vh;
+}
+
+.sao-link {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+#headphones1 {
+    font-size: 15px;
+}
+
+#headphones2 {
+    font-size: 15px;
+}
