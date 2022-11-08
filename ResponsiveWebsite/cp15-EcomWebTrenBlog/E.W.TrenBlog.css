@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.trending-section {
+    background-color: #f9fbfe;
+}
+
+.trending-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.fountain-card-heading {
+    padding: 10px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.fountain-section-description {
+
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.fountain-card {
+
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.fountain-card-title {
+    padding: 10px;
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.fountain-card-description {
+    padding: 10px;
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.menu-item-link {
+    padding: 10px;
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
