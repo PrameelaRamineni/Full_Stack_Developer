@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+body{
+    padding: 0 10px;
+}
+
+img{
+   
+}
+
+.main-heading{
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.overview-heading{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px;
+}
+
+.overview-desc{
+    font-size: 15px;
+    font-family: "Roboto";
+    color: black;
+    text-align: start;
+    padding: 10px;
+}
+
+.itinerary-heading{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: center;
+    padding: 10px;
+}
+
+.itinerary-desc{
+    font-size: 15px;
+    font-family: "Roboto";
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.date{
+    color:brown;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.cost-heading{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px;
+}
+
+.special{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    padding: 10px;
+}
+
+.terms-heading{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px; 
+}
+
+.payment-heading{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px; 
+}
+
+.inclusions-heading{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px; 
+}
+
+.exclusions-heading{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px; 
+}
+
+.bankdetails{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: start;
+    padding: 10px; 
+}
+
+.pincode{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323fff;
+    text-align: start;
+    padding: 10px; 
+}
+
+.contacts{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+    text-align: center;
+    padding: 10px; 
+}
+
+.navigation{
+    margin-left: 20px;
+}
+.highlight{
+    background-color: lightgrey;
+}
+td, th{
+    padding: 10px;
+}
