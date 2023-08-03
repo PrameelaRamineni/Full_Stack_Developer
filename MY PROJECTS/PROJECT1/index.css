@@ -2,18 +2,15 @@
 
 body{
     padding: 0 10px;
-}
-
-img{
-   
+    background-color: khaki !important;
 }
 
 .main-heading{
-    font-size: 35px;
+    font-size: 32px;
     font-weight: bold;
     color: black;
     text-align: center;
-    padding: 10px;
+    padding: 8px;
 }
 
 .overview-heading{
@@ -22,7 +19,7 @@ img{
     font-family: "Roboto";
     color: #323f4b;
     text-align: start;
-    padding: 10px;
+    padding: 8px;
 }
 
 .overview-desc{
@@ -30,7 +27,8 @@ img{
     font-family: "Roboto";
     color: black;
     text-align: start;
-    padding: 10px;
+    padding: 8px;
+    margin-left: 10px;
 }
 
 .itinerary-heading{
@@ -39,15 +37,15 @@ img{
     font-family: "Roboto";
     color: #323f4b;
     text-align: center;
-    padding: 10px;
+    padding: 8px;
 }
 
 .itinerary-desc{
     font-size: 15px;
     font-family: "Roboto";
     color: black;
-    text-align: center;
-    padding: 10px;
+    padding: 8px;
+    width:100%;
 }
 
 
@@ -63,7 +61,11 @@ img{
     font-family: "Roboto";
     color: #323f4b;
     text-align: start;
-    padding: 10px;
+    padding: 8px;
+}
+
+.cost{
+    margin-left: 10px;
 }
 
 .special{
@@ -71,7 +73,7 @@ img{
     font-weight: bold;
     font-family: "Roboto";
     color: #323f4b;
-    padding: 10px;
+    padding: 8px;
 }
 
 .terms-heading{
@@ -79,35 +81,41 @@ img{
     font-weight: bold;
     font-family: "Roboto";
     color: #323f4b;
-    text-align: start;
-    padding: 10px; 
+    text-align: center;
+    padding: 8px; 
 }
 
 .payment-heading{
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     font-family: "Roboto";
     color: #323f4b;
-    text-align: start;
-    padding: 10px; 
+    text-align: center;
+    padding: 8px; 
+}
+
+.payment-desc{
+    margin-left: 20px;
 }
 
 .inclusions-heading{
-    font-size: 30px;
+    font-size: 23px;
     font-weight: bold;
     font-family: "Roboto";
     color: #323f4b;
     text-align: start;
-    padding: 10px; 
+    padding: 8px; 
+    margin-left: 20px;
 }
 
 .exclusions-heading{
-    font-size: 30px;
+    font-size: 23px;
     font-weight: bold;
     font-family: "Roboto";
     color: #323f4b;
     text-align: start;
-    padding: 10px; 
+    padding: 8px; 
+    margin-left: 20px;
 }
 
 .bankdetails{
@@ -116,7 +124,7 @@ img{
     font-family: "Roboto";
     color: #323f4b;
     text-align: start;
-    padding: 10px; 
+    padding: 8px; 
 }
 
 .pincode{
@@ -125,7 +133,7 @@ img{
     font-family: "Roboto";
     color: #323fff;
     text-align: start;
-    padding: 10px; 
+    padding: 8px; 
 }
 
 .contacts{
@@ -134,15 +142,38 @@ img{
     font-family: "Roboto";
     color: #323f4b;
     text-align: center;
-    padding: 10px; 
+    padding: 8px; 
+    margin: px;
 }
 
 .navigation{
-    margin-left: 20px;
+    margin: 20px;
 }
 .highlight{
     background-color: lightgrey;
 }
 td, th{
-    padding: 10px;
+    padding: 8px;
+}
+
+a{
+    text-decoration: none !important;
+    padding: 5px 10px;
+    background-color:darkgreen !important;
+    color:pink !important;
+}
+
+.title{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 20px;
+}
+
+.booking{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Serif";
+    padding: 20px;
+    color:red;
 }
