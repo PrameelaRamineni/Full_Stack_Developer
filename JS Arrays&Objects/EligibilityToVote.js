@@ -30,4 +30,11 @@ function main() {
   /*
    *Write your code here and log the output.
    */
+   for (let person of arrayOfPersons){
+    let eachPersonAge=person.age;
+    if(eachPersonAge>=18){
+        console.log(person.name);
+    }
+}     
+     
 }
