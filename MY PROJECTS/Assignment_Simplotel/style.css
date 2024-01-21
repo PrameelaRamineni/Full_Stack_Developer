@@ -1,0 +1,46 @@
+.topContainer{
+    background-color: pink;
+    
+}
+
+h1{
+    color: black;
+    font-family: "Roboto";
+    text-align: center; 
+    padding:10px;
+}
+
+p{
+    color: black;
+    font-family: "Roboto";
+    text-align: left; 
+    padding: 20px;
+}
+
+button{
+    background-color: red;
+    border: 0;
+    color:white;
+    height:30px;
+    width: 150px;
+}
+
+.burgerimage{
+    height:100%;
+    width:100%;
+}
+
+.image1{
+    height:50%;
+    width:50%;
+}
+
+.image2{
+    height:50%;
+    width:50%;
+}
+
+.image3{
+    height:100%;
+    width:100%;
+}
