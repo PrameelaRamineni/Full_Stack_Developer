@@ -28,10 +28,7 @@ body {
     align-items: center;
 }
 
-.list ul {
-    float: right;
-    margin: 15px;
-}
+
 
 .list ul li {
     display: inline-block;
