@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.linear-gradient1 {
+    font-family: "Roboto";
+    height: 50vh;
+    width: 50vw;
+    color:white;
+    font-size: 8px;
+    background-image: linear-gradient(#aa2bff,#ffa740,#4cc8ef);
+}
+.linear-gradient2 {
+    font-family: "Roboto";
+    height: 50vh;
+    width: 50vw;
+    color:white;
+    font-size: 8px;
+    background-image: linear-gradient(to top,#daa4ff,#ff8c88,#ffc169);
+}
+.linear-gradient3 {
+    font-family: "Roboto";
+    height: 50vh;
+    width: 50vw;
+    color:white;
+    font-size: 8px;
+    background-image: linear-gradient(to bottom,#9e82b4,#8a2387,#e94057);
+}
+.linear-gradient4 {
+    font-family: "Roboto";
+    height: 50vh;
+    width: 50vw;
+    color:white;
+    font-size: 8px;
+    background-image: linear-gradient(to left,#f27121,#7bbd36,#49b407);
+}
+.linear-gradient5 {
+    font-family: "Roboto";
+    height: 50vh;
+    width: 50vw;
+    color:white;
+    font-size: 8px;
+    background-image: linear-gradient(to right,#ff9c38,#fc3535,#826b7a,#87cdff);
+}
