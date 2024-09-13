@@ -7,7 +7,7 @@
 .heading {
     color: #2d3a8c;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 .request-url-text {
@@ -42,7 +42,7 @@
 .request-status {
     color: #4055a8;
     font-family: "Roboto";
-    font-size: 32px;
+    font-size: 30px;
 }
 
 .response-body-container {
