@@ -21,7 +21,7 @@
 }
 
 .search-input {
-    font-size: 18px;
+    font-size: 20px;
     border-style: solid;
     border-width: 1px;
     border-color: #d5cdcd;
@@ -39,12 +39,12 @@
 }
 
 .result-title {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .link-description {
     color: #444444;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .result-url {
